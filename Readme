@@ -1,0 +1,42 @@
+ # 🛍️ Retail Pricing Analytics Dashboard (Tableau)
+
+Welcome to the **Retail Pricing Analytics Dashboard**, an interactive Tableau project focused on uncovering insights from retail product pricing. This dashboard helps business analysts, pricing managers, and product teams monitor pricing trends, optimize pricing strategy, and improve revenue and margins through informed decision-making.
+
+---
+
+## 📌 Project Objective
+
+In the highly competitive retail sector, pricing plays a pivotal role in influencing customer behavior and company profitability. The main objective of this dashboard is to:
+
+- Analyze pricing patterns across products and categories
+- Identify pricing inefficiencies or outliers
+- Track pricing trends over time
+- Provide actionable insights into profit margins and revenue optimization
+
+This dashboard turns raw retail pricing data into easy-to-understand, decision-support visuals.
+
+---
+
+## 📊 Key Features of the Dashboard
+
+### 1. **Price Distribution Analysis**
+- Visualizes the spread of product prices across different categories
+- Detects pricing clusters and outliers
+- Highlights average vs. median price ranges
+
+### 2. **Time Series Pricing Trends**
+- Monthly or quarterly pricing trends
+- Allows comparison between categories or regions over time
+- Useful for identifying inflationary or seasonal impacts on pricing
+
+### 3. **Profit & Revenue Analysis**
+- Tracks margin percentages across products
+- Helps isolate underperforming or highly profitable items
+- Supports strategic discounting decisions
+
+### 4. **Segment Filters**
+- Interactive filters for:
+  - Product categories
+  - Regions or stores
+  - Date ranges
+- Enables users to drill down into specific product lines or locations
